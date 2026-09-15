@@ -1,2 +1,18 @@
-# mongolian-dubbing-app
-Ямар ч хэл дээрх видео, аудио, эсвэл YouTube линк оруулбал: Автоматаар хэлийг таньж Байгалийн, сэтгэл хөдлөлтэй, амьд ярианы Монгол хэлээр орчуулж өгнө Дүр бүрийг (эрэгтэй, эмэгтэй, хүүхэд, ялгаж таньж Тухайн дүрийн нас, хүйс, өнгө аястай төстэй Монгол AI хоолой оноож өгнө Эцэст нь Монгол дуутай дубляжтай видео + subtitle + transcript гаргана
+# mongolian-dubbing-app — consolidated
+
+The original concept in this repository has moved into the active Mongolian dubbing stack.
+
+## Canonical app
+
+`zaykamazuykama-wq/mongol-dub-genie`
+
+## Canonical voice/API service
+
+`zaykamazuykama-wq/mongolian-voice-api`
+
+The product direction remains: video/audio → ASR → natural Mongolian translation → speaker/voice assignment → dubbed output + subtitles/transcript.
+
+Repository consolidation tracking:
+`zaykamazuykama-wq/ai-orchestrator#57`
+
+This repository is kept temporarily for history and link compatibility. Do not start new feature work here.
